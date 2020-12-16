@@ -1,0 +1,5 @@
+boto3
+numpy
+requests
+torch>=0.4.1
+tqdm
